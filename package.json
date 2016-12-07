@@ -12,6 +12,8 @@
   "author": "Jimmy",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
   }
 }
