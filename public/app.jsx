@@ -1,6 +1,6 @@
 var React = require('react')
 var ReactDOM = require('react-dom')
-var Greeter = require('Greeter')
+var Greeter = require('./components/Greeter')
 
 var firstName = "Rocket"
 
